@@ -13,6 +13,6 @@
 ### g4f_info_lots.py
 GPT-консультант по товара. Команда #info. #info {ID товара. Если его нет, то будет использован лот, который сейчас смотрит покупатель} {Вопрос. Если отсутсвует, то Бот расскажет о товаре}
 
-## Автор: <a href='https://t.me/arthells'>t.me/arthells</a>
+## Автор: <a href='https://t.me/arthells'>t.me/agushenka_bot</a>
 
-## Больше плагинов тут: <a href='https://t.me/FPC_pluginss'>t.me/FPC_pluginss</a>
+## Больше плагинов тут: <a href='https:/t.me/agushenka_bot'>t.me/agushenka_bot</a>
