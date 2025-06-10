@@ -790,8 +790,8 @@ UPDATE = """
 
 NAME = "AutoStars"
 VERSION = "4.3"
-DESCRIPTION = "Плагин для авто-накрутки Stars через Fragment."
-CREDITS = "@exfador"
+DESCRIPTION = "Плагин для авто Stars через Fragment."
+CREDITS = "@ago106"
 UUID = "bceecb15-4244-4f4d-8a03-b500c8f3a701"
 SETTINGS_PAGE = False
 
