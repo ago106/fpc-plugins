@@ -1,5 +1,5 @@
 ## 10.06
-### Добавлены:
+Добавлены:
 - auto_start.py
 - status_plugin.py
 
@@ -25,5 +25,4 @@ GPT-консультант по товара. Команда #info. #info {ID т
 GPT-автоответчик на отзыв клиента
 
 # My bot: <a href='https://t.me/arthells'>t.me/agushenka_bot</a>
-# Больше плагинов тут: <a href='https:/t.me/?'>t.me/?</a>
-
+# Больше плагинов на 10 звезд!
