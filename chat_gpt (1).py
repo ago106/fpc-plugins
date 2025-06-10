@@ -53,7 +53,7 @@ logger.info(f"{LOGGER_PREFIX} Плагин успешно запущен.")
 NAME = "GPT отзывы"
 VERSION = "0.3"
 DESCRIPTION = "Отзывы от AI (g4f) с настройкой через Telegram"
-CREDITS = "@exfador"
+CREDITS = "@ago106"
 UUID = "b93bfb30-03ef-42ef-ad13-d406cc60b353"
 SETTINGS_PAGE = False
 
