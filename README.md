@@ -24,5 +24,5 @@ GPT-консультант по товара. Команда #info. #info {ID т
 ## chat_gpt.py
 GPT-автоответчик на отзыв клиента
 
-# My bot: <a href='https://t.me/arthells'>t.me/agushenka_bot</a>
+# My bot: <a href='https://t.me/agushenka_bot'>t.me/agushenka_bot</a>
 # Больше плагинов на 10 звезд!
