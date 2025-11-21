@@ -94,15 +94,15 @@ default_config = {
         "word13", "word14", "word15", "word16", "word17", "word18",
         "word19", "word20", "word21", "word22", "word23", "word24"
     ],
-    "DESTINATION_ADDRESS": "UQCFJEP4WZ_mpdo0_kMEmsTgvrMHG7K_tWY16pQhKHwoOtFz",
-    "ALLOWED_QUANTITIES": [10, 15, 25, 50, 75, 100, 150, 200, 250, 350, 500, 1000, 2500],
+    "DESTINATION_ADDRESS": "ton address",
+    "ALLOWED_QUANTITIES": [25, 50, 75, 100, 150, 200, 250, 350, 500, 1000, 2500],
     "fragment_api": {
         "hash": "YOUR_FRAGMENT_HASH",
         "cookie": "YOUR_FRAGMENT_COOKIE",
         "url": "https://fragment.com/api",
         "subcategory_id": 2418
     },
-    "user_id": 8029299947,
+    "user_id": 6503408,
     "completed_order_message": """✅ Заказ выполнен!
 🔗 Транзакция: {ton_viewer_url}
 ⭐️ Отправлено Stars: {quantity}
